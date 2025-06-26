@@ -1,3 +1,11 @@
-## Jogo do Número Secreto
+<h1>Jogo do número secreto</h1>
 
-Foi criado como parte do curso de *lógica de programação* no intuito de desenvolver as habilidades de trabalhar com **variáveis**, **loops**, condicionais, **if** e **else**, dentro outras comuns no mercado de programação.
+<h2> Sobre</h2>
+<p>Projeto de um jogo de adivinhação de um número, baseado no estudo de lógica de programação da Alura.</p>
+
+##  Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
